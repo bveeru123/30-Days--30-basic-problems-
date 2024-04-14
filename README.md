@@ -1,1 +1,1 @@
-# 30 Days-30-basic problems
+# 30 Days-30 basic problems
