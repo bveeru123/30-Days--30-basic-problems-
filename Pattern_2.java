@@ -39,7 +39,7 @@ public class Pattern_2 {
     }
     public static void pattern3(int n)
     {
-        //---------pattern 3
+        //--------pattern 3
         System.out.println("----pattern 3");
         int sum=0;
         for(int i=1;i<=n;i++)
