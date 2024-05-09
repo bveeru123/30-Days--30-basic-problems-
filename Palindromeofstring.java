@@ -18,6 +18,6 @@ public class Palindromeofstring {
     {
         Scanner sc=new Scanner(System.in);
         String s=sc.next();
-        System.out.println(ispalindrome(s,0,s.length()-1));
+        System.out.println(ispalindrome(s ,0,s.length()-1));
     }
 }
