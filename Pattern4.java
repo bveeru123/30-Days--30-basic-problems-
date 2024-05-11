@@ -5,7 +5,7 @@ public class Pattern4 {
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
         //palindrome pattern
-        System.out.println("--------palindrome pattern");
+        System.out.println("---------palindrome pattern");
         for(int i=1;i<=n;i++)
         {
             //space
