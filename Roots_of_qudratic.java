@@ -16,7 +16,7 @@ public class Roots_of_qudratic {
             System.out.println("real and distinct");
             r1=(-b+Math.sqrt(d))/(2*a);
             r2=(-b-Math.sqrt(d))/(2*a);
-            System.out.println("R1"+r1+"R2"+r2);
+            System.out.println("R1="+r1+"R2="+r2);
         }
         else{
             System.out.println("roots are distinct and imaginery");
